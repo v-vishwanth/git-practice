@@ -1,1 +1,2 @@
 this is a sample text of line 1
+this is a 2nd line from master
